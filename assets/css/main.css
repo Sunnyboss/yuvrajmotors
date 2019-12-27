@@ -237,8 +237,8 @@ th {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
+  src: url("http://www.themotorman.in/fonts/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("http://www.themotorman.in/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("http://www.themotorman.in/fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("http://www.themotorman.in/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("http://www.themotorman.in/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("http://www.themotorman.in/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
 
 .glyphicon {
   position: relative;
@@ -6417,15 +6417,15 @@ button.close {
 
 @font-face {
   font-family: star;
-  src: url(../fonts/star.eot);
-  src: url(../fonts/stard41d.eot?#iefix) format("embedded-opentype"), url(../fonts/star.woff) format("woff"), url(../fonts/star.ttf) format("truetype"), url(../fonts/star.svg#star) format("svg");
+  src: url(http://www.themotorman.in/fonts/star.eot);
+  src: url(http://www.themotorman.in/fonts/stard41d.eot?#iefix) format("embedded-opentype"), url(http://www.themotorman.in/fonts/star.woff) format("woff"), url(http://www.themotorman.in/fonts/star.ttf) format("truetype"), url(http://www.themotorman.in/fonts/star.svg#star) format("svg");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
   font-family: WooCommerce;
-  src: url(../fonts/WooCommerce.eot);
-  src: url(../fonts/WooCommerced41d.eot?#iefix) format("embedded-opentype"), url(../fonts/WooCommerce.woff) format("woff"), url(../fonts/WooCommerce.ttf) format("truetype"), url(../fonts/WooCommerce.svg#WooCommerce) format("svg");
+  src: url(http://www.themotorman.in/fonts/WooCommerce.eot);
+  src: url(http://www.themotorman.in/fonts/WooCommerced41d.eot?#iefix) format("embedded-opentype"), url(http://www.themotorman.in/fonts/WooCommerce.woff) format("woff"), url(http://www.themotorman.in/fonts/WooCommerce.ttf) format("truetype"), url(http://www.themotorman.in/fonts/WooCommerce.svg#WooCommerce) format("svg");
   font-weight: 400;
   font-style: normal; }
 
@@ -6761,8 +6761,8 @@ button.close {
  */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("../fonts/fontawesome-webfonte0a5.eot?v=4.3.0");
-  src: url("../fonts/fontawesome-webfontd41d.eot?#iefix&v=4.3.0") format("embedded-opentype"), url("../fonts/fontawesome-webfonte0a5.woff2?v=4.3.0") format("woff2"), url("../fonts/fontawesome-webfonte0a5.woff?v=4.3.0") format("woff"), url("../fonts/fontawesome-webfonte0a5.ttf?v=4.3.0") format("truetype"), url("../fonts/fontawesome-webfonte0a5.svg?v=4.3.0#fontawesomeregular") format("svg");
+  src: url("http://www.themotorman.in/fonts/fontawesome-webfonte0a5.eot?v=4.3.0");
+  src: url("http://www.themotorman.in/fonts/fontawesome-webfontd41d.eot?#iefix&v=4.3.0") format("embedded-opentype"), url("http://www.themotorman.in/fonts/fontawesome-webfonte0a5.woff2?v=4.3.0") format("woff2"), url("http://www.themotorman.in/fonts/fontawesome-webfonte0a5.woff?v=4.3.0") format("woff"), url("../fonts/fontawesome-webfonte0a5.ttf?v=4.3.0") format("truetype"), url("../fonts/fontawesome-webfonte0a5.svg?v=4.3.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -9305,7 +9305,7 @@ Preloader - CSS
   right: 0;
   width: 23px;
   height: 100%;
-  background: url(../images/jquery.selectBox-arrow.html) 50% center no-repeat;
+  background: url(http://www.themotorman.in/images/jquery.selectBox-arrow.html) 50% center no-repeat;
   border-left: solid 1px #BBB; }
 
 /* Dropdown menu */
@@ -10108,7 +10108,7 @@ img.tp-slider-alternative-image {
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.6) !important;
   font-size: 15px;
   line-height: 45px !important;
-  background: url(../images/gradient/g30.html) repeat-x top;
+  background: url(http://www.themotorman.in/images/gradient/g30.html) repeat-x top;
   font-family: arial, sans-serif;
   font-weight: bold;
   letter-spacing: -1px;
@@ -10121,7 +10121,7 @@ img.tp-slider-alternative-image {
   padding: 9px 20px;
   font-size: 19px;
   line-height: 57px !important;
-  background: url(../images/gradient/g40.html) repeat-x top; }
+  background: url(http://www.themotorman.in/images/gradient/g40.html) repeat-x top; }
 
 .purchase:hover,
 .tp-button:hover,
@@ -11262,7 +11262,7 @@ img.tp-slider-alternative-image {
   right: 0;
   width: 23px;
   height: 100%;
-  background: url(../images/jquery.selectBox-arrow.html) 50% center no-repeat;
+  background: url(http://www.themotorman.in/images/jquery.selectBox-arrow.html) 50% center no-repeat;
   border-left: solid 1px #BBB; }
 
 /* Dropdown menu */
@@ -15110,7 +15110,7 @@ body.padding-top {
   color: #fff;
   z-index: 22222;
   display: block;
-  background-image: url(../images/icon-close.png);
+  background-image: url(http://www.themotorman.in/images/icon-close.png);
   background-size: 20px;
   background-color: #333; }
 
@@ -15118,7 +15118,7 @@ body.padding-top {
   background-size: cover;
   height: 550px;
   position: relative;
-  background-image: url(../images/background/heading_bg.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/heading_bg.jpg); }
 
 .noo-page-heading:before {
   content: '';
@@ -16532,7 +16532,7 @@ ul.owl-theme .owl-controls .owl-page span:after {
 
 .blog-title .noo-blog-control .arrow-line {
   display: inline-block;
-  background: url(../images/line.png);
+  background: url(http://www.themotorman.in/images/line.png);
   width: 21px;
   height: 36px;
   float: left;
@@ -16557,7 +16557,7 @@ ul.owl-theme .owl-controls .owl-page span:after {
   color: #f3e200; }
 
 .blog-title.style2 .arrow-line {
-  background: url(../images/line-white.png); }
+  background: url(http://www.themotorman.in/images/line-white.png); }
 
 .noo_our_blog {
   list-style: none;
@@ -16910,7 +16910,7 @@ ul.owl-theme .owl-controls .owl-page span:after {
 
 .team-title .noo-team-control .arrow-line {
   display: inline-block;
-  background: url(../images/line-white.png);
+  background: url(http://www.themotorman.in/images/line-white.png);
   width: 21px;
   height: 36px;
   float: left;
@@ -17138,7 +17138,7 @@ ul.owl-theme .owl-controls .owl-page span:after {
   height: 100%;
   display: none;
   background-color: rgba(0, 0, 0, 0.7);
-  background-image: url(../images/3.gif);
+  background-image: url(http://www.themotorman.in/images/3.gif);
   background-position: center center;
   background-repeat: no-repeat;
   z-index: 999999; }
@@ -19256,7 +19256,7 @@ ul.owl-theme .owl-controls .owl-page span:after {
   right: 15px;
   top: 0;
   content: '';
-  background-image: url(../images/load-ajax.gif);
+  background-image: url(http://www.themotorman.in/images/load-ajax.gif);
   background-color: rgba(255, 255, 255, 0.3);
   background-repeat: no-repeat;
   background-position: center center;
@@ -26475,21 +26475,21 @@ a.go-to-top.on:hover, a.go-to-top:hover a.go-to-top:focus.on:hover {
   padding-right: 0; }
 
 .banner-bg {
-  background-image: url(../images/background/automotive_mechanic.jpg); }
+  background-image: url(http://www.themotorman.in/background/automotive_mechanic.jpg); }
 
 .your-money {
-  background-image: url(../images/background/yourmoney.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/yourmoney.jpg); }
 
 .section-question-service {
   padding-top: 100px;
   padding-bottom: 302px;
-  background-image: url(../images/background/common.png);
+  background-image: url(http://www.themotorman.in/images/background/common.png);
   background-position: center; }
 
 .section-question-service-bg {
   padding-top: 52px;
   padding-bottom: 52px;
-  background-image: url(../images/background/rectangle.jpg);
+  background-image: url(http://www.themotorman.in/images/background/rectangle.jpg);
   background-position: center; }
 
 .parallax-client, .parallax-counter, .parallax-offers {
@@ -26499,22 +26499,22 @@ a.go-to-top.on:hover, a.go-to-top:hover a.go-to-top:focus.on:hover {
   background-attachment: fixed; }
 
 .parallax-blog {
-  background-image: url(../images/background/bg_blog.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg_blog.jpg); }
 
 .parallax-choose-us {
-  background-image: url(../images/background/background-for-services.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/background-for-services.jpg); }
 
 .parallax-counter {
-  background-image: url(../images/background/bg_subscribe.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg_subscribe.jpg); }
 
 .parallax-offers {
-  background-image: url(../images/background/bg2.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg2.jpg); }
 
 .parallax-client {
-  background-image: url(../images/background/bg_client.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg_client.jpg); }
 
 .noo-poster-bk {
-  background-image: url(../images/background/bg_product1.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg_product1.jpg); }
 
 .noo-client-bg {
   background-color: #f7f7f7; }
@@ -26522,7 +26522,7 @@ a.go-to-top.on:hover, a.go-to-top:hover a.go-to-top:focus.on:hover {
 .testimonial-bg {
   padding-top: 90px;
   padding-bottom: 40px;
-  background-image: url(../images/background/testimonial.jpg);
+  background-image: url(http://www.themotorman.in/images/background/testimonial.jpg);
   background-position: center; }
 
 .noo-clients {
@@ -26532,22 +26532,22 @@ a.go-to-top.on:hover, a.go-to-top:hover a.go-to-top:focus.on:hover {
   padding-left: 100px !important; }
 
 .noo-newsltter {
-  background-image: url(/fury/frontend/images/bg_subscribe1.jpg); }
+  background-image: url(http://www.themotorman.in/fury/frontend/images/bg_subscribe1.jpg); }
 
 .wrap-footer {
-  background-image: url(../images/background/bg.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg.jpg); }
 
 .book-creative {
-  background-image: url(../images/background/booking-bg.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/booking-bg.jpg); }
 
 .single-bg-1 {
-  background-image: url(../images/background/bg_product.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg_product.jpg); }
 
 .single-bg-2 {
-  background-image: url(../images/background/bgshop.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bgshop.jpg); }
 
 .single-bg-3 {
-  background-image: url(../images/background/bg_shop3.jpg); }
+  background-image: url(http://www.themotorman.in/images/background/bg_shop3.jpg); }
 
 .service-text-contact span {
   color: #f3e200; }
