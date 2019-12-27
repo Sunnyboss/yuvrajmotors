@@ -1,0 +1,14 @@
+{
+  "name": "Always Be Progressive",
+  "short_name": "Progressive!",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "background_color": "#102a48",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512"
+    }
+   
+  ]
+}
